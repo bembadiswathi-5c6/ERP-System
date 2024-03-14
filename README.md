@@ -46,7 +46,7 @@ This repository contains the front end code for a web application. The applicati
 
 ### DASHBOARD
 
-![Picsart_24-03-12_13-15-46-184](https://ibb.co/tqJzGxF)
+![Picsart_24-03-12_13-15-46-184]()
 
 
 The Dashboard page provides an overview of product and order information.
