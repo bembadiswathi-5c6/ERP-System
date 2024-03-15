@@ -46,7 +46,7 @@ This repository contains the front end code for a web application. The applicati
 
 ### DASHBOARD
 
-![Picsart_24-03-12_13-15-46-184](https://drive.google.com/file/d/1oYEpuhW0rbfYJ1Mcj0oYB1gDQbOI2mzv/view?usp=drivesdk)
+![312034961-852b799b-afd6-41b7-b912-bc4b74bd6513](https://github.com/bembadiswathi-5c6/ERP-System/assets/130271827/324be520-78de-4f94-8f49-c20b070a349b)
 
 
 The Dashboard page provides an overview of product and order information.
