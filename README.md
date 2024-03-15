@@ -103,6 +103,6 @@ You can view and display the order with expected delivery date by clicking  a pa
 
 ### Navigation
 
-![Screenshot_20240313-093210_Evolution X Launcher-01](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/7f20158f-0d5e-4a7f-ae53-d074b0aa007d)
+![WhatsApp Image 2024-03-15 at 16 03 49_b186623b](https://github.com/bembadiswathi-5c6/ERP-System/assets/130271827/c61d6d1b-6c4d-4623-8a39-82b91553ec73)
 
 Use the navigation bar at the top of the page to switch between different sections of the application: Dashboard, Products, and Orders.
