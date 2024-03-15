@@ -46,7 +46,7 @@ This repository contains the front end code for a web application. The applicati
 
 ### DASHBOARD
 
-![Picsart_24-03-12_13-15-46-184]()
+![Picsart_24-03-12_13-15-46-184](https://drive.google.com/file/d/1oYEpuhW0rbfYJ1Mcj0oYB1gDQbOI2mzv/view?usp=drivesdk)
 
 
 The Dashboard page provides an overview of product and order information.
