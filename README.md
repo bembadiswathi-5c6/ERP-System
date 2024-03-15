@@ -54,7 +54,7 @@ The Dashboard page provides an overview of product and order information.
 
 ### PRODUCT PAGE
 
-![Picsart_24-03-12_14-19-35-027](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/07df8b7b-6a33-40f5-a90b-f8120f0f9ac9)
+![WhatsApp Image 2024-03-15 at 15 56 36_e4ef80b7](https://github.com/bembadiswathi-5c6/ERP-System/assets/130271827/2a029d2d-5536-4a5d-b24b-9470a4041dc0)
 
 
 On the Products page, you can view, add, edit, and delete products.
