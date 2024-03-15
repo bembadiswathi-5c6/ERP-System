@@ -50,20 +50,6 @@ This repository contains the front end code for a web application. The applicati
 
 
 The Dashboard page provides an overview of product and order information.
-### PRODUCT LIST
-
-![WhatsApp Image 2024-03-15 at 15 37 53_eef1b614](https://github.com/bembadiswathi-5c6/ERP-System/assets/130271827/a0931646-547f-49c1-937b-78371143d2d1)
-
-
-### ORDERS MANAGEMENT
-
-![WhatsApp Image 2024-03-15 at 15 38 18_47d1d5d8](https://github.com/bembadiswathi-5c6/ERP-System/assets/130271827/721b2119-6853-4f78-b49c-8e576c89c9d7)
-
-
-### ORDERS CALENDER VIEW
-
-
-![WhatsApp Image 2024-03-15 at 15 34 50_3fd229d0](https://github.com/bembadiswathi-5c6/ERP-System/assets/130271827/66449dcf-d7b6-4939-ae1e-93d59239de2f)
 
 
 ### PRODUCT PAGE
@@ -76,32 +62,31 @@ On the Products page, you can view, add, edit, and delete products.
 ### Viewing Product Information
 
 
-![Picsart_24-03-12_14-41-38-773](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/a44667c2-c7a2-4e25-8fef-d182767c3836)
+![WhatsApp Image 2024-03-15 at 15 56 36_e4ef80b7](https://github.com/bembadiswathi-5c6/ERP-System/assets/130271827/2a029d2d-5536-4a5d-b24b-9470a4041dc0)
 
 On the Products page, you can see a list of products with details such as name, category, price, and stock quantity.
 
 ### Editing a Product
 
-![Picsart_24-03-12_14-47-16-281](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/85b0723f-375c-4424-8c51-81c675676683)
-
+![WhatsApp Image 2024-03-15 at 15 57 49_3ef720db](https://github.com/bembadiswathi-5c6/ERP-System/assets/130271827/9508c910-bfc1-4638-a36f-fea79bcc86f4)
 
 To edit a product, click on the "Edit" button next to the product you want to edit. Update the information and click "Save".
 
 ### Adding a New Product
 
-![Picsart_24-03-12_14-52-12-169](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/207aa8bb-c426-4244-8173-2165d0920f82)
+![WhatsApp Image 2024-03-15 at 15 59 41_dcda2a21](https://github.com/bembadiswathi-5c6/ERP-System/assets/130271827/7f9bd695-7d95-4828-a8f0-48cda629e403)
 
 To add a new product, click on the "Add Product" button, fill in the required fields, and click "Save".
 
 ### ORDER PAGE
 
-![Picsart_24-03-12_15-55-32-683](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/4a805662-a36c-4ec9-8d46-082a5a3a09a8)
+![WhatsApp Image 2024-03-15 at 15 38 18_47d1d5d8](https://github.com/bembadiswathi-5c6/ERP-System/assets/130271827/721b2119-6853-4f78-b49c-8e576c89c9d7)
 
 On the Orders page, you can view order details, update order status, and delete orders.
 
 ### Viewing Order Details
 
-![Screenshot (88)-01](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/ffaded5b-8065-426b-a16f-34dbd3c81874)
+![WhatsApp Image 2024-03-15 at 16 01 13_298e12cb](https://github.com/bembadiswathi-5c6/ERP-System/assets/130271827/a2f3accb-d67a-406b-97c5-ca914919ef6d)
 
 On the Orders page, you can view details of each order by clicking on the "View Details" button.
 
@@ -111,7 +96,7 @@ You can update the status of an order to "Shipped" by clicking the "Ship" button
 
 ### Order Calender view
 
-![Picsart_24-03-12_16-11-12-344](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/3ae931ba-fd56-43d6-96d5-41a3ccd3bfbe)
+![WhatsApp Image 2024-03-15 at 15 34 50_3fd229d0](https://github.com/bembadiswathi-5c6/ERP-System/assets/130271827/66449dcf-d7b6-4939-ae1e-93d59239de2f)
 
 You can view and display the order with expected delivery date by clicking  a particular date on a calender
 
