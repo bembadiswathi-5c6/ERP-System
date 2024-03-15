@@ -50,6 +50,21 @@ This repository contains the front end code for a web application. The applicati
 
 
 The Dashboard page provides an overview of product and order information.
+### PRODUCT LIST
+
+![WhatsApp Image 2024-03-15 at 15 37 53_eef1b614](https://github.com/bembadiswathi-5c6/ERP-System/assets/130271827/a0931646-547f-49c1-937b-78371143d2d1)
+
+
+### ORDERS MANAGEMENT
+
+![WhatsApp Image 2024-03-15 at 15 38 18_47d1d5d8](https://github.com/bembadiswathi-5c6/ERP-System/assets/130271827/721b2119-6853-4f78-b49c-8e576c89c9d7)
+
+
+### ORDERS CALENDER VIEW
+
+
+![WhatsApp Image 2024-03-15 at 15 34 50_3fd229d0](https://github.com/bembadiswathi-5c6/ERP-System/assets/130271827/66449dcf-d7b6-4939-ae1e-93d59239de2f)
+
 
 ### PRODUCT PAGE
 
